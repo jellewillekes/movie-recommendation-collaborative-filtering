@@ -78,7 +78,8 @@ movie-recommendation-collaborative-filtering/
 ---
 
 ## Acknowledgements
-- This project is part of the **Machine Learning Specialization** offered by [Deeplearning.ai](https://www.deeplearning.ai/) and **Stanford University**.
+- The results of this project are generated as part of a skills lab of the **Machine Learning Specialization** 
+  offered by [Deeplearning.ai](https://www.deeplearning.ai/) and **Stanford University**.
 - The dataset is derived from the [MovieLens Dataset](https://grouplens.org/datasets/movielens/latest/), maintained by GroupLens Research.
 - TensorFlow is used for optimization and gradient calculation.
 
